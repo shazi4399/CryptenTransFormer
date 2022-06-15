@@ -32,3 +32,5 @@ print(sum_xy)
 print(sum_xy_dec)
 
 print("hello world")
+
+print("test pull")#测试在本地下拉 github 上的代码
