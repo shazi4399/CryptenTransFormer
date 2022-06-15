@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de0770a1-528a-4012-be85-e3b6fdc966f6" name="CryptenTorch1.9">
+        <fileTransfer accessType="SFTP" host="39.106.49.188" port="22" sshConfigId="a1972173-6c60-44d6-96ab-f056f1674d56" sshConfig="root@39.106.49.188:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
